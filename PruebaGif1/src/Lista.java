@@ -233,4 +233,7 @@ public class Lista {
         }
         return retorno;
     }
+    public void insertar2(String direccion){
+        
+    }
 }
